@@ -8,9 +8,9 @@ Topaz App permite a los usuarios compartir textos creativos, seguir temas de int
 
 ## 🖼️ Capturas de Pantalla
 
-| Onboarding | Feed Principal |
+| Feed Principal | Onboarding |
 |-----------|----------------|
-| ![Home](https://github.com/Manucervs/topaz-app/blob/main/design/screens/Home.png) | ![Feed](https://github.com/Manucervs/topaz-app/blob/main/design/screens/LogIn.png) | ![Onboarding](https://github.com/Manucervs/topaz-app/blob/main/design/screens/Onboarding.png)
+| ![Home](https://github.com/Manucervs/topaz-app/blob/main/design/screens/Home.png) | ![Feed](https://github.com/Manucervs/topaz-app/blob/main/design/screens/Onboarding.png)
 
 ---
 
